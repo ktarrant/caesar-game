@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="16" height="16" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="wallpaper" tilewidth="16" tileheight="16">
+  <image source="wallpaper.jpg" width="1920" height="1200"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJwNw1WQEFQAAMCHgLR0nUp3p4BKl1LS3R2i0r+odHeIdEl3o3R3d0kqIaDAJefuzL5MF8IrX/uv//nGt74z0iijjTHWON8bb8/0IfSyt3381r5+5/f+YD/7O8CBDnKwQ7zrPf/0vg986CMf+8S//NunPvO5L/zHlhlCaGVr29jWdra3gx3tZGe72NVudreHZz3neS940Ute9opXveZ1b3jTW972jl9lDOFr61jXeta3gd/Y0EY2tolNbWZzW7jXfe73gAc95GGPeNRjHveEJz3lac9YPlMIFfzcL/zSilayslWsajWrW8Oa1rK2693gRje52S1udZvb3eFOd7nb3/3DPRbIHEJBC1nYIha1mMUtYUlLWdoylvUzy7nAhS5ysUtc6jKX+5srXOkqV7vGta4zS5YQshrhx37ip2YzuznMaS5zm8e85jO/k5zsFKc6zenOcKaznO0vzvFX5zrP+SbNGkIyk5vClKbyI1ObxrSmM70ZzGgmMzvUH/3Jnx3mcEc40lGOdoxjHed4JzjRSKOMNsZY43xvvCEihAR+YEITmdgPTeL/LnOZeQ==
+  </data>
+ </layer>
+</map>
